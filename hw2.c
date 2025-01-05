@@ -12,10 +12,10 @@ int c;
 printf("write 3rd number:");
 scanf("%d", &c);
 int d = a + b + c;
-printf("the average is : %d", d/3);
+printf("the average is : %d \n", d/3);
 
 
-int 8
+
 
 
 

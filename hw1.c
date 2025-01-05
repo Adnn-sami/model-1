@@ -21,7 +21,7 @@ printf("perimeter is %d \n" , c);
 int x;
 printf("write number n:");
 scanf("%d",&x);
-printf(" cube is %d",x*x*x) ;
+printf("cube is %d",x*x*x);
 
 //comment has been written
 
